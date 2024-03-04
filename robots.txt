@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap : https://gulfnewsn.sfo3.digitaloceanspaces.com/sitemap.xml
-Sitemap : https://gulfnewsn.sfo3.digitaloceanspaces.com/sitemap_cdn.xml
